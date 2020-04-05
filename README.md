@@ -1,1 +1,1 @@
-### Test Action Cable nad WebSocket
+### Test Action Cable and WebSocket
